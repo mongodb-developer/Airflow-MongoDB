@@ -85,6 +85,8 @@ You should see the Airflow UI, where you can monitor and manage your DAGs.
 
 That's it! You've deployed Apache Airflow and configured it to use MongoDB as a data source. Your DAG (my_dag.py) will be available in the Airflow UI, and you can trigger it manually or set up a schedule according to your needs.
 
+<img src="https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fmongodb-devhub-cms.s3.us-west-1.amazonaws.com%2Fshowing_log_details_view_1730e19f15.png&w=828&q=75">
+
 
 
 
