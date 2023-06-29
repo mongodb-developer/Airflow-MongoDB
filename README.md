@@ -73,7 +73,7 @@ airflow scheduler
 Run the following command to start the Airflow web server:
 ```
 airflow webserver
-
+```
 Step 7: Access the Airflow UI
 
 Open your web browser and navigate to http://localhost:8080 (or the URL specified by Airflow).
