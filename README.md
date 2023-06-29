@@ -51,6 +51,7 @@ with DAG(
     schedule_interval=None,  # Set the schedule as per your requirement
     start_date=datetime.datetime(2023, 6, 29),  # Set the start date
 ) as dag:
+```
 Define a task using the PythonOperator and pass the previously defined function as the python_callable parameter:
 my_task_operator = PythonOperator(
     task_id='my_task',
@@ -72,7 +73,7 @@ airflow scheduler
 Run the following command to start the Airflow web server:
 ```
 airflow webserver
-```
+
 Step 7: Access the Airflow UI
 
 Open your web browser and navigate to http://localhost:8080 (or the URL specified by Airflow).
