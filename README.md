@@ -6,11 +6,12 @@ Step 1: Set up your environment
 
 Make sure you have Python and pip installed on your system.
 Create a new directory for your project and navigate to it in your terminal.
+
 Step 2: Install Apache Airflow
 
 Run the following command to install Apache Airflow:
 ```
-pip install apache-airflow
+pip3 install apache-airflow
 ```
 Step 3: Initialize the Airflow database
 
