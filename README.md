@@ -1,5 +1,4 @@
-![Alt Text](https://www.google.com/search?sxsrf=APwXEde5G_tH75dOF-Kk4-omvoK46npKXw:1688045095807&q=apache+airflow+image&tbm=isch&sa=X&ved=2ahUKEwjQnLOCyuj_AhVkHjQIHTwsBScQ0pQJegQIDRAB&biw=1626&bih=1054&dpr=1#imgrc=MtZ48qfwkkd-kM&imgdii=8U7e_9wBjnd8xM)
-
+![Alt Text](https://airflow.apache.org/)
 
 Step 1: Set up your environment
 
