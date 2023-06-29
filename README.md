@@ -52,6 +52,7 @@ with DAG(
 ) as dag:
 ```
 Define a task using the PythonOperator and pass the previously defined function as the python_callable parameter:
+```
 my_task_operator = PythonOperator(
     task_id='my_task',
     python_callable=my_task
