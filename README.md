@@ -52,7 +52,6 @@ with DAG(
     start_date=datetime.datetime(2023, 6, 29),  # Set the start date
 ) as dag:
 Define a task using the PythonOperator and pass the previously defined function as the python_callable parameter:
-```
 my_task_operator = PythonOperator(
     task_id='my_task',
     python_callable=my_task
