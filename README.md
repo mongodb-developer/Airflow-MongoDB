@@ -1,4 +1,4 @@
-![Alt Text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-WONIXxqCzs6nKqZqaUr9w.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-WONIXxqCzs6nKqZqaUr9w.png" alt="Alt Text" width="300">
 Step 1: Set up your environment
 
 Make sure you have Python and pip installed on your system.
