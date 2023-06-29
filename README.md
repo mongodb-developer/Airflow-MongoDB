@@ -45,7 +45,6 @@ def my_task():
     for document in documents:
         print(document)
 Create a DAG object and define its parameters:
-```
 with DAG(
     dag_id='my_dag',
     schedule_interval=None,  # Set the schedule as per your requirement
