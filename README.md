@@ -49,8 +49,9 @@ def my_task():
     documents = collection.find({})
     for document in documents:
         print(document)
-Create a DAG object and define its parameters:
-with DAG(
+#Create a DAG object and define its parameters:
+#with DAG
+(
     dag_id='my_dag',
     schedule_interval=None,  # Set the schedule as per your requirement
     start_date=datetime.datetime(2023, 6, 29),  # Set the start date
