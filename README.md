@@ -58,9 +58,8 @@ my_task_operator = PythonOperator(
     python_callable=my_task
 )
 Set up the dependencies between tasks, if any:
-```
 my_task_operator
-
+```
 Save the DAG file.
 
 Step 6: Start the Airflow scheduler and web server
@@ -74,7 +73,7 @@ airflow scheduler
 Run the following command to start the Airflow web server:
 ```
 airflow webserver
-
+```
 Step 7: Access the Airflow UI
 
 Open your web browser and navigate to http://localhost:8080 (or the URL specified by Airflow).
